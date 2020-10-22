@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Levitate : MonoBehaviour
 {
-    public float Rotate = 15.0f;
+    public float Rotate = 0f;
     public float amplitude = 0.5f;
     public float frequency = 1f;
 
